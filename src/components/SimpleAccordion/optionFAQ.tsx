@@ -5,7 +5,7 @@ export const optionFAQ = [
     ' Fiz basquete dos 7 ao 15 anos, aprendi muito sobre o valor do trabalho em equipe, competitividade com outros e comigo mesmo' +
     ', sempre buscando a minha melhor versão. Gosto de ouvir música, andar de bicicleta e fazer trilhas sozinho mesmo, ter um momento só meu.' +
     ' Aos 11 anos, tive o meu primeiros contato com programação e robôs, em um programa do Sesi, o qual me fez despertar interesse sobre o assunto. ' +
-    'Fiz ensino Médio/Técnico, de forma que me deu oportunidade de estagiar como técnico em eletrônica na Embraer e dessa forma fui aprendendo como é ser profissional'+
+    ' Fiz ensino Médio/Técnico, de forma que me deu oportunidade de estagiar como técnico em eletrônica na Embraer e dessa forma fui aprendendo como é ser profissional'+
     ' e como isso impacta o pessoal. Ao longo dos anos, me dediquei aos estudos para entrar na universidade que eu sempre quis e '+
     'nela descobri o que realmente quero fazer da minha carreira profissional.'
   },
