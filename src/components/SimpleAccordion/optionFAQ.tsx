@@ -2,12 +2,12 @@ export const optionFAQ = [
   {
     question:'Quem é você e porque quer trabalhar na Inova?',
     answer: 'Meu nome é Matheus Bueno Queiroz, nasci em São José dos Campos, tenho 23 anos, curso engenharia da computação na UNIFEI de Itajubá.' +
-    ' Fiz basquete dos 7 ao 15 anos, aprendi muito sobre o valor do trabalho em equipe, competitividade com outros e comigo mesmo, ' +
-    'sempre buscando a minha melhor versão. Gosto de ouvir música, andar de bicicleta e fazer trilhas sozinho mesmo, ter um momento só eu.' +
-    ' Aos 11 anos, tive o meu primeiros contato com programação e robôs, em um programa do Sesi,' +
-    ' o qual me fez despertar interesse sobre o assunto. Fiz ensino Médio/Técnico, de forma que me deu oportunidadede de estágiar como técnico em ' +
-    'eletrônica na Embraer, muito foi aprendido como prossifional e como pessoa. Me esforçei pra estudar na universidade que eu sempre ' +
-    'quis e nela descobri o que realmente quero fazer da minha carreira profissional.'
+    'Fiz basquete dos 7 ao 15 anos, aprendi muito sobre o valor do trabalho em equipe, competitividade com outros e comigo mesmo' +
+    ', sempre buscando a minha melhor versão. Gosto de ouvir música, andar de bicicleta e fazer trilhas sozinho mesmo, ter um momento só meu.' +
+    ' Aos 11 anos, tive o meu primeiros contato com programação e robôs, em um programa do Sesi, o qual me fez despertar interesse sobre o assunto.' +
+    'Fiz ensino Médio/Técnico, de forma que me deu oportunidade de estagiar como técnico em eletrônica na Embraer e dessa forma fui aprendendo como é profissional'+
+    ' e como isso impacta o pessoal. Ao longo dos anos, me dediquei aos estudos para entrar na universidade que eu sempre quis e '+
+    'nela descobri o que realmente quero fazer da minha carreira profissional.'
   },
   {
     question:'Qual seu sonho?',
