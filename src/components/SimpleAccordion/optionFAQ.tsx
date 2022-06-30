@@ -17,17 +17,17 @@ export const optionFAQ = [
   },
   {
     question:'Por que você seria brilhante no nosso time?',
-    answer:'Porque sou uma otima pessoa para trabalhar em equipe e me esforço ao máximo individualmente falando pelo meu time, além disso' +
-    ' eu estaria dando um passo mais próximo do meu sonho e eu farei de tudo para conseguir realizá-lo.'
+    answer: 'Sou ótima pessoa para trabalhar em equipe (devido ao meu background no esporte e no estágio) porém sei trabalhar sozinho também. ' +
+    'Além disso, estaria dando um passo mais próximo do meu sonho e eu farei de tudo para conseguir realizá-lo.'
   },
   {
     question:'O que você já fez de diferente na faculdade e na vida? E que resultados conquistou por seu próprio mérito?',
-    answer:'Entrei em projeto universitátio, a Robok, que atua na área de competição de futebol de robôs autônomos. ' +
-    'Participei da equipe de software, onde analisavamos os pontos a serem atingidos por metas, consultavamos professores, '+
-    'faziamos pesquisas sobre materiais a serem adquiridos, com a fainalidade de fazer o robô funcionar. No estágio que eu fiz antes de entrar na universidade adquiri muito conhecimento ' +
-    'e aprendi muito sobre a vida, porque  trabalhei com pessoas que poderam compatilhar suas experiências e a maior lição foi sempre seguir focado em quem eu quero ser, o que serviu de base' +
-    'para mim que tinha 18 anos e estava entrando na universidade' +
-    'Uma conquista foi estudar para entrar na universidade que sempre quis, porém sempre tive pessoas próximas a mim que me ajudaram durante a jornada como minha família.'
+    answer:'Entrei em um projeto universitário, a Robok, que atua na área de competição de futebol de robôs autônomos. Participei da equipe de software,' +
+    ' onde analisávamos os pontos a serem atingidos por metas, consultávamos professores, fazíamos pesquisas sobre materiais a serem adquiridos,' +
+    ' com a finalidade de fazer o robô funcionar. No estágio que eu fiz antes de entrar na universidade adquiri muito conhecimento e aprendi muito sobre a vida,'+
+    ' porque trabalhei com pessoas que puderam compartilhar suas experiências e a maior lição foi sempre seguir focado em quem eu quero ser. O que serviu de base para mim,' +
+    ' onde tinha 18 anos e estava entrando na universidade que tanto quis. Isso foi uma conquista e valeu a pena todo esforço.'+
+    ' Entretanto, sempre tive pessoas próximas a mim que me ajudaram durante a jornada como minha família.'
   },
   {
     question:'Explique seus pontos fortes e fracos, citando exemplos de situações reais que já viveu.',
